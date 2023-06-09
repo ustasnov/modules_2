@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ustasnov/modules_1.git"
+    "url": "git+https://github.com/ustasnov/modules_2.git"
   },
   "author": "Stanislav Ugarov",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ustasnov/modules_1/issues"
+    "url": "https://github.com/ustasnov/modules_2/issues"
   },
-  "homepage": "https://github.com/ustasnov/modules_1#readme",
+  "homepage": "https://github.com/ustasnov/modules_2#readme",
   "devDependencies": {
     "css-loader": "^6.8.1",
     "html-webpack-plugin": "^5.5.1",
