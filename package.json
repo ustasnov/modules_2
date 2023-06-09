@@ -1,7 +1,7 @@
 {
   "name": "modules_2",
   "version": "1.0.0",
-  "description": "Homework. Modules task 1",
+  "description": "Homework. Modules task 2",
   "main": "app.js",
   "scripts": {
     "start": "webpack serve --mode development",
